@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-alpha-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/yourusername/uplift?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/yourusername/uplift?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/prashik287/uplift?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/prashik287/uplift?style=for-the-badge" />
 </p>
 
 > 🌐 *A new Flutter project to store your files in a decentralized manner.*  
